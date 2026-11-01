@@ -42,4 +42,4 @@ clear - to clean files
 ```
 ```zsh
 history - to show you what what have been erase
-```# command-lines
+```
